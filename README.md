@@ -1,1 +1,2 @@
-# study
+# blastpy
+Blasteroid shooting game by python
